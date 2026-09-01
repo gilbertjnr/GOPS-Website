@@ -329,7 +329,7 @@ hr {
     
     .nav_link {
         padding-left: var(--space);
-        font-size: 5rem;
+        font-size: 3rem;
         letter-spacing: .5px;
         font-weight: 600;
         font-family: system-ui;
